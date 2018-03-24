@@ -1,5 +1,3 @@
-# react_native_gems
-
 # АНИМАЦИЯ
 
 https://medium.com/ux-in-motion/creating-usability-with-motion-the-ux-in-motion-manifesto-a87a4584ddc Creating Usability with Motion: The UX in Motion Manifesto
@@ -21,10 +19,33 @@ https://github.com/xotahal/react-native-motion либа
 
 https://github.com/xotahal/ui-interactions-detail-view демка
 
+### react-native-animatable и др от автора
+https://github.com/oblador/react-native-animatable
+
+https://github.com/oblador/react-native-lightbox 
+
+https://github.com/oblador/react-native-vector-icons иконки
+
+https://github.com/oblador/react-native-progress
+
+https://github.com/oblador/react-native-image-progress
+
+https://github.com/oblador/react-native-collapsible
+
+https://github.com/oblador/react-native-shimmer
+
+https://github.com/oblador/react-native-parallax
+
+
+
+https://github.com/dancormier/react-native-swipeout
+
 
 # MATERIAL 
 
 ### react-native-material-ui
+Standard set of easy to use animations and declarative transitions for React Native
+
 https://github.com/xotahal/react-native-material-ui
 
 https://github.com/xotahal/react-native-material-ui-demo-app
