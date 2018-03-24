@@ -1,8 +1,8 @@
 # react_native_gems
 
-АНИМАЦИЯ
+# АНИМАЦИЯ
 
-# react-native-motion
+### react-native-motion
 https://medium.com/react-native-motion/transition-challenge-9bc9fdef56c7 статья
 
 https://expo.io/@xotahal/react-native-motion-example пример в expo
